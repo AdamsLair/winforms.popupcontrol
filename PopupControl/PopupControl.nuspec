@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>AdamsLair.WinForms.PopupControl</id>
+    <version>$version$</version>
+	<authors>See original authors</authors>
+    <title>AdamsLair.WinForms.PopupControl</title>
+    <projectUrl>https://github.com/AdamsLair/winforms.popupcontrol</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Forked from here: http://www.codeproject.com/Articles/25471/Customizable-ComboBox-Drop-Down</description>
+  </metadata>
+  <files>
+    <file src="bin\Release\PopupControl.dll" target="lib" />
+    <file src="bin\Release\PopupControl.pdb" target="lib" />
+  </files>
+</package>
