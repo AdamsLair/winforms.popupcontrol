@@ -10,7 +10,7 @@
     <description>Forked from here: http://www.codeproject.com/Articles/25471/Customizable-ComboBox-Drop-Down</description>
   </metadata>
   <files>
-    <file src="bin\Release\PopupControl.dll" target="lib" />
-    <file src="bin\Release\PopupControl.pdb" target="lib" />
+    <file src="bin\Release\PopupControl.dll" target="lib\net40" />
+    <file src="bin\Release\PopupControl.pdb" target="lib\net40" />
   </files>
 </package>
